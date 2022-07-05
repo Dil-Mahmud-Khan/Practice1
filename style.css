@@ -58,8 +58,10 @@ body {
 }
 
 .backpic {
-    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: none;
+    width: 100%;
+    height: 100%;
 }
 
 .recp {
